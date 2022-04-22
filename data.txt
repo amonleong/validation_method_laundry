@@ -1,0 +1,9 @@
+STATISTICAL_ANALYSIS_RING_TRIAL_MAINWASH_PRODUCT_corrected_08_04_20
+
+MSExcel raw data obtained during the experiment of ring trial main wash and used to obtain statistical results
+
+STATISTICAL_ANALYSIS_RING_TRIAL_RINSING_PRODUCT_corrected _08_04_20
+
+MSExcel raw data obtained during the experiment of ring trial rinsing product and used to obtain statistical results
+
+
